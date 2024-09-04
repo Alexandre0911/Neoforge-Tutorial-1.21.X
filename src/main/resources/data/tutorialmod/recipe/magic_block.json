@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tutorialmod:bismuth_block"
+    },
+    "b": {
+      "item": "tutorialmod:bismuth"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "bdb",
+    "dBd",
+    "bdb"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:magic_block"
+  }
+}

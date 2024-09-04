@@ -1,10 +1,12 @@
 {
   "item.tutorialmod.bismuth": "Bismuto",
   "item.tutorialmod.raw_bismuth": "Bismuto bruto",
+  "item.tutorialmod.bismuth_chisel": "Formão de Bismuto",
 
   "block.tutorialmod.bismuth_block": "Bloco de Bismuto",
   "block.tutorialmod.bismuth_ore": "Minério de Bismuto",
   "block.tutorialmod.deepslate_bismuth_ore": "Minério de Bismuto de Ardósia",
+  "block.tutorialmod.magic_block": "Bloco Mágico",
 
   "creativetab.tutorialmod.bismuth_items": "Itens de Bismuto",
   "creativetab.tutorialmod.bismuth_blocks": "Blocos de Bismuto"
